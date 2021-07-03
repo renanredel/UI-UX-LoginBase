@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952208914237",
+    "project_id": "ui-ux-gameproject",
+    "storage_bucket": "ui-ux-gameproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952208914237:android:4e3e601a44d58d1fd83754",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952208914237-dcf4nt0neem87ma6j135qqkmed6aial7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpoYVo_J-Ovp8yM841rgD0tx33_rThpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952208914237-dcf4nt0neem87ma6j135qqkmed6aial7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
